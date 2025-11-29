@@ -22,9 +22,15 @@ A financial data analyst powered by Claude. This project demonstrates how to lev
 
 ### Computer Use Demo
 
-An environment and tools that Claude can use to control a desktop computer. This project demonstrates how to leverage the computer use capabilities of the new Claude 3.5 Sonnet model.
+An environment and tools that Claude can use to control a desktop computer. This project demonstrates how to leverage the computer use capabilities of Claude, including support for the latest `computer_use_20251124` tool version with zoom actions.
 
 [Go to Computer Use Demo Quickstart](./computer-use-demo)
+
+### Autonomous Coding Agent
+
+An autonomous coding agent powered by the Claude Agent SDK. This project demonstrates a two-agent pattern (initializer + coding agent) that can build complete applications over multiple sessions, with progress persisted via git and a feature list that the agent works through incrementally.
+
+[Go to Autonomous Coding Agent Quickstart](./autonomous-coding)
 
 ## General Usage
 
