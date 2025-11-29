@@ -2,3 +2,5 @@
 .ruff_cache
 __pycache__
 .pytest_cache
+autonomous-coding/__pycache__/
+autonomous-coding/__pycache__/*
